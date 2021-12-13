@@ -1,0 +1,2 @@
+# SpringBootEnvDecrypt
+SpringBoot获取被星号脱敏的密码的明文
